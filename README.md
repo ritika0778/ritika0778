@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritika</h1>
+<h1 align="center">Helloo, I'm Ritika⭐</h1>
 <h3 align="center">💻 Engineering Student | 🌱 DSA Learner | 🚀 Open Source Enthusiast</h3>
 
 <p align="center">
