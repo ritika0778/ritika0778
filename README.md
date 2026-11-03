@@ -10,8 +10,8 @@
 
 ## 🌸 About Me
 
-- 🎓 Engineering student passionate about technology and development  
-- 💻 Currently learning **C++, DSA, Git/GitHub, and Web Development**  
+- 🎓 Second Year Engineering Student passionate about technology and development  
+- 💻 Currently learning **JAVA , C++, DSA, Git/GitHub, and Web Development**  
 - 🌱 Exploring **Open Source Contributions** through programs like **GSSOC & SSOC**  
 - 🚀 Building projects to improve problem-solving and development skills  
 - ✨ Interested in creating useful and creative tech projects  
@@ -19,15 +19,15 @@
 ---
 ### 👩‍💻 Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 </p>
 
  ### 🛠️ Tech Stack **Languages** 
- 
+ ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
